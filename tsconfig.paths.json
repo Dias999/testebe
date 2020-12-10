@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "components": ["app/components"],
+      "screens": ["app/screens"],
+      "assets": ["assets/"],
+      "config": ["config/"],
+      "utils": ["utils/"],
+      "hooks": ["core/hooks"],
+      "store": ["core/redux/store"],
+      "actions": ["core/redux/actions"]
+    }
+  }
+}

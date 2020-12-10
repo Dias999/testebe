@@ -1,0 +1,14 @@
+.pokemon-card {
+  border-radius: 30px;
+  padding: 20px;
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.1);
+  border: none;
+  max-width: 300px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.pokemon-img {
+  width: 200px;
+  height: auto;
+}
